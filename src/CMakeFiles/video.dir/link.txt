@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/video.dir/video.c.o  -o video 

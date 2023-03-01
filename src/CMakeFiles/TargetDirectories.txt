@@ -1,0 +1,3 @@
+/home/pi/Documents/cpp/robak/src/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/cpp/robak/src/CMakeFiles/video.dir
+/home/pi/Documents/cpp/robak/src/CMakeFiles/edit_cache.dir
